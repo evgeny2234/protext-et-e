@@ -1,0 +1,8 @@
+/*.content-all .products-category-block > h3:after {
+    content: "ОБОРУДОВАНИЕ. ЛИДЕРЫ ПРОДАЖ.";
+    position: relative;
+    z-index: 9999999;
+    top: -10px;
+    left: -270px;
+    color: #fff
+    /*╨Ю╨С╨Ю╨а╨г╨Ф╨Ю╨Т╨Р╨Э╨Ш╨Х. ╨Ы╨Ш╨Ф╨Х╨а╨л ╨Я╨а╨Ю╨Ф╨Р╨Ц.*/ }
