@@ -392,8 +392,8 @@ footer {
 @media (max-width: 768px) {
 	.cart-holder {
 		z-index: 13 !important;
-		width: 262px !important;
-		left: 0px; 
+		width: 265px !important;
+		left: -216px !important;
 	}
 	.compare-holder {
 		z-index: 13 !important;
@@ -597,6 +597,7 @@ footer {
 		.right {
 			float: none;
 			margin: auto;
+			width: 100%;
 		}
 		.left {
 			float: none;
